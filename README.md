@@ -7,7 +7,7 @@
   <meta name="keywords" content="Aşk, Seni Seviyorum, [Sevgilinin Adı], Aşk Mesajı, Romantik" />
   <title>Sana Bir Sözüm Var</title>
   <style>
-    /* https://resimlink.com/90bunprE56 */
+    /*[ https://resimlink.com/90bunprE56 ](https://raw.githubusercontent.com/enesberkay2002-droid/qwera/08b391a379c0333ecf081817bf91a1efb52eb57d/WhatsApp%20Image%202025-08-05%20at%2015.22.38.jpeg)*/
     body {
       margin: 0;
       padding: 50px;
